@@ -39,7 +39,7 @@ print(output)
 
 ## Setup
 
-Make sure to set a valid `OPENAI_API_KEY` in your environment variables.
+Make sure to set a valid `OPENAI_API_KEY` in your environment variables and install `requirements.txt`.
 
 ## Features
 
